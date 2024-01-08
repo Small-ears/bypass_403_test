@@ -26,12 +26,21 @@
 使用指南：
 
   -u string
+  
         Target URL,example:https://example.com
+        
   -d string
+  
         target directory,example:path
+        
   -m string
+  
         HTTP request method,Default is GET (default "GET")
+        
   -f string
+  
         payload file path
+        
   -g int
+  
         goroutine number,Default is 10. (default 10)
