@@ -1,0 +1,113 @@
+X-Originating-IP: localhost
+X-Forwarded-For: localhost
+X-Forwarded: localhost
+Forwarded-For: localhost
+X-Remote-IP: localhost
+X-Remote-Addr: localhost
+X-ProxyUser-Ip: localhost
+X-Original-URL: localhost
+Client-IP: localhost
+True-Client-IP: localhost
+Cluster-Client-IP: localhost
+X-Client-IP: localhost
+X-Custom-IP-Authorization: localhost
+X-Originating-IP: 192.168.1.1
+X-Forwarded-For: 192.168.1.1
+X-Forwarded: 192.168.1.1
+Forwarded-For: 192.168.1.1
+X-Remote-IP: 192.168.1.1
+X-Remote-Addr: 192.168.1.1
+X-ProxyUser-Ip: 192.168.1.1
+X-Original-URL: 192.168.1.1
+Client-IP: 192.168.1.1
+True-Client-IP: 192.168.1.1
+Cluster-Client-IP: 192.168.1.1
+X-Client-IP: 192.168.1.1
+X-Custom-IP-Authorization: 192.168.1.1
+X-Originating-IP: 0x7F000001
+X-Forwarded-For: 0x7F000001
+X-Forwarded: 0x7F000001
+Forwarded-For: 0x7F000001
+X-Remote-IP: 0x7F000001
+X-Remote-Addr: 0x7F000001
+X-ProxyUser-Ip: 0x7F000001
+X-Original-URL: 0x7F000001
+Client-IP: 0x7F000001
+True-Client-IP: 0x7F000001
+Cluster-Client-IP: 0x7F000001
+X-Client-IP: 0x7F000001
+X-Custom-IP-Authorization: 0x7F000001
+X-Originating-IP: 10.0.0.0
+X-Forwarded-For: 10.0.0.0
+X-Forwarded: 10.0.0.0
+Forwarded-For: 10.0.0.0
+X-Remote-IP: 10.0.0.0
+X-Remote-Addr: 10.0.0.0
+X-ProxyUser-Ip: 10.0.0.0
+X-Original-URL: 10.0.0.0
+Client-IP: 10.0.0.0
+True-Client-IP: 10.0.0.0
+Cluster-Client-IP: 10.0.0.0
+X-Client-IP: 10.0.0.0
+X-Custom-IP-Authorization: 10.0.0.0
+X-Forwarded: 172.16.0.1
+Forwarded-For: 172.16.0.1
+X-Remote-IP: 172.16.0.1
+X-Remote-Addr: 172.16.0.1
+X-ProxyUser-Ip: 172.16.0.1
+X-Original-URL: 172.16.0.1
+Client-IP: 172.16.0.1
+True-Client-IP: 172.16.0.1
+Cluster-Client-IP: 172.16.0.1
+X-Client-IP: 172.16.0.1
+X-Custom-IP-Authorization: 172.16.0.1
+X-Originating-IP: 172.16.0.1
+.
+//
+;
+.;
+/;/
+/*
+/%2f/
+/./
+/
+/*/
+/%2e/
+..;
+20%
+t%09
+0%
+?
+??
+???
+#
+..;/
+../
+/.
+/..;/
+..\;/
+~
+°/
+#/
+#/./
+#test
+9%
+%0A
+%0D
+%20/
+25%
+23%
+26%
+%3f
+61%
+&
+-
+..\;
+./
+/..%3B/
+;%2f..%2f..%2f
+\/\/
+debug
+FALSE
+null
+TRUE
