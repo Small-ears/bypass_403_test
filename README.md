@@ -8,6 +8,7 @@
 
 
 其他细节：
+
 1、特殊（lines = append(lines, "X-Original-URL:"+urlDir, "X-Rewrite-URL:"+urlDir)）追加到payload切片中
 
 2、正则匹配payload，将合适的payload传入合适的HTTP request中
